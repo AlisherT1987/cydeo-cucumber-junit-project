@@ -14,6 +14,6 @@ public class BingSearchPage {
 
     //#2:
     @FindBy(name = "q")
-    public WebElement  searchBox;
+    public WebElement searchBox;
 
 }
